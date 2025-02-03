@@ -1,4 +1,4 @@
-package com.springboot.webapp;
+package com.springboot.webapp.model;
 
 public class Book {
 	private int id;
